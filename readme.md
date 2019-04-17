@@ -16,4 +16,4 @@ Feel free to copy the Word file and add your own commands for your own use. Also
 
 I'd suggest that you don't try to learn Vim from this cheatsheet but rather use it to remember commands. 
 
-There are many ways to learn Vim. Practice make perfect or, in the case of Vim, practice makes more familiar. To learn Vim, you could start with the Vim tutor (`:help tutor`). It takes only about 30 minutes.
+There are many ways to learn Vim. Practice make perfect or, in the case of Vim, practice makes more familiar. To learn Vim, you could start with the Vim tutor (`:help tutor`). It takes only about 30 minutes. Vim has comprehensive help: `:h user-manual`.
